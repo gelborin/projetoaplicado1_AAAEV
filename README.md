@@ -1,6 +1,6 @@
 # Projeto Aplicado 1 - AAAE
 
-Objetivo do Projeto
+## Objetivo do Projeto
 O objetivo principal deste projeto é atender plenamente às necessidades do componente curricular, abordando a área de atuação na saúde pública, e utilizando os dados fornecidos pela OMS para investigar e resolver problemas relacionados à pandemia de COVID-19. A análise contribuirá para uma melhor compreensão das respostas globais à pandemia, auxiliando no desenvolvimento de estratégias futuras para o enfrentamento de crises de saúde pública.
 
 Equipe
