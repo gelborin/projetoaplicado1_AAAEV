@@ -1,6 +1,9 @@
 # Projeto Aplicado 1 - AAAEV
 
-## Vídeo do YouTube do Projeto
+## Documentação do Projeto
+https://docs.google.com/document/d/1tdk_RUtBSicrvN5C4oD6DHZNzTsxxgVdv1OLs1R_XjY/edit?usp=sharing
+
+## Vídeo no YouTube do Projeto
 https://youtu.be/aU7022XeHCg?si=dRhXhweXLAjT7Qlw
 
 ## Objetivo do Projeto
